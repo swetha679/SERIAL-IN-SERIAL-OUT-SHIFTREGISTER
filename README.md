@@ -63,7 +63,8 @@ end endmodule'''
 **RTL LOGIC FOR SISO Shift Register**
 
 
-![image](https://github.com/user-attachments/assets/cad38639-0345-493e-af69-5618d3f3759e)
+![image](https://github.com/user-attachments/assets/699ef981-72c9-4af1-ab91-927a723b9a30)
+
 
 
 **TIMING DIAGRAMS FOR SISO Shift Register**
