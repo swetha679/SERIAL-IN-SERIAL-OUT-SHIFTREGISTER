@@ -43,7 +43,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 
-![image](https://github.com/user-attachments/assets/e2894edd-a8db-44cf-8369-202ef66cc503)
+
 
 
 
