@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement the  SISO Shift Register using Verilog and validating their functionality using their functional tables
+To implement the  SISO Shift Register using Verilog and validate their functionality using their functional tables
 
 **SOFTWARE REQUIRED:**
 
@@ -44,6 +44,14 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
+
+developed by SWETHA NIVASINI B R
+
+
+registration number 24900367
+
+
+    
 '''module EXP10(clk, sin, q); 
 input clk; input sin; 
 output [3:0] q; 
@@ -69,4 +77,6 @@ end endmodule'''
 
 
 **RESULT**
+
+
 SISO Shift Register using Verilog and validating their functionality using their functional tables is verified.
