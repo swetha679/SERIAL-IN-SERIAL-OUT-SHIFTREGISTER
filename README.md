@@ -52,15 +52,25 @@ registration number 24900367
 
 
     
-'''module EXP10(clk, sin, q); 
+```module EXP10(clk, sin, q); 
+
 input clk; input sin; 
+
 output [3:0] q; 
+
 reg [3:0] q; 
+
 always @(posedge clk) begin q[0] <= sin; 
+
 q[1] <= q[0]; 
+
 q[2] <= q[1]; 
+
 q[3] <= q[2]; 
-end endmodule'''
+
+end 
+endmodule
+```
 
 **RTL LOGIC FOR SISO Shift Register**
 
@@ -69,7 +79,7 @@ end endmodule'''
 
 
 
-**TIMING DIAGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAM FOR SISO Shift Register**
 
 ![image](https://github.com/user-attachments/assets/6a3dcf93-a0e4-4697-9b39-08f61ecd938c)
 
