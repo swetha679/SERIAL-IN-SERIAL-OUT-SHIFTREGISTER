@@ -52,7 +52,8 @@ registration number 24900367
 
 
     
-```module EXP10(clk, sin, q); 
+```
+module EXP10(clk, sin, q); 
 
 input clk; input sin; 
 
